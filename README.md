@@ -1,57 +1,68 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Offensive+Security+Enthusiast;Penetration+Tester;Bug+Bounty+Hunter;CTF+Player+(Top+15%25+THM)">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Penetration+Tester;Bug+Bounty+Hunter;Offensive+Security+Enthusiast">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,git,github,bash" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-gaber0&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mohamed-gaber0&theme=tokyonight" />
 </p>
-# 👋 Hi, I'm Mohamed Gaber
 
-🎯 Offensive Security Enthusiast | Penetration Tester 
+---
+
+# 👨‍💻 Mohamed Gaber
+
+🎯 **Offensive Security | Penetration Testing | Web Security | Bug Bounty**
 
 ---
 
 ## 🧠 About Me
-- 🎓 CS Student at AASTMT
-- 🔐 Passionate about Cybersecurity & Ethical Hacking
-- 🧪 Hands-on experience in CTFs and labs
-- 🚀 Currently focusing on Web Penetration Testing & Bug Bounty
+- 🎓 Computer Science student at Arab Academy for Science, Technology and Maritime Transport (AASTMT)  
+- 🔐 Passionate about Offensive Security & Ethical Hacking  
+- 🧪 Hands-on experience in CTF challenges and real-world labs  
+- 🚀 Currently focusing on **Web Application Security & Bug Bounty Hunting**  
 
 ---
 
-## ⚔️ Skills
-- Network Security & Wireless Attacks
-- Linux & Networking
-- Tools: Nmap, Burp Suite, Gobuster
+## ⚔️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,git,github,bash" />
+</p>
+
+**Security & Tools:**
+- Web Security: XSS, IDOR, SQL Injection (Basics)  
+- Network Security & Wireless Attacks  
+- Tools: Nmap, Burp Suite, Gobuster  
 
 ---
 
 ## 🧪 Labs & Writeups
-- 🔍 RootMe CTF Writeup
-- 🔐 TryHackMe Labs
-- 📂 Web Exploitation Labs 
+- 🔍 RootMe CTF Writeup  
+- 🔐 TryHackMe Labs (Top 15%)  
+- 📂 Web Exploitation Labs (XSS, IDOR, Enumeration)  
 
 ---
 
 ## 💼 Projects
-- 🔧 Port Scanner (Java)
-- 🛠️ Web Vulnerability Lab 
-- CipherVault_Pro_v3
+- 🔧 Port Scanner (Java - Multi-threaded)  
+- 🛠️ Web Vulnerability Lab (XSS Practice Environment)  
+- 🔐 CipherVault Pro (Encryption Tool)  
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: [www.linkedin.com/in/mohamed-gaber123]
-- Email: [mohamedgabersayed1@gmail.com]
+## 📈 Current Focus
+- 🐞 Bug Bounty Hunting  
+- 🌐 Advanced Web Exploitation  
+- 🔍 Recon & Enumeration Techniques  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-gaber123  
+- 📧 Email: mohamedgabersayed1@gmail.com  
+
+---
+
+<p align="center">
+  ⚡ “Breaking systems to understand how to secure them.” ⚡
+</p>

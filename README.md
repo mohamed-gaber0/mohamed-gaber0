@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Gaber
 
-<!--
-**mohamed-gaber0/mohamed-gaber0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Offensive Security Enthusiast | Penetration Tester 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 CS Student at AASTMT
+- 🔐 Passionate about Cybersecurity & Ethical Hacking
+- 🧪 Hands-on experience in CTFs and labs
+- 🚀 Currently focusing on Web Penetration Testing & Bug Bounty
+
+---
+
+## ⚔️ Skills
+- Network Security & Wireless Attacks
+- Linux & Networking
+- Tools: Nmap, Burp Suite, Gobuster
+
+---
+
+## 🧪 Labs & Writeups
+- 🔍 RootMe CTF Writeup
+- 🔐 TryHackMe Labs
+- 📂 Web Exploitation Labs 
+
+---
+
+## 💼 Projects
+- 🔧 Port Scanner (Java)
+- 🛠️ Web Vulnerability Lab 
+- CipherVault_Pro_v3
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [www.linkedin.com/in/mohamed-gaber123]
+- Email: [mohamedgabersayed1@gmail.com]

@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-gaber0&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=mohamed-gaber0&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamed-gaber0&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mohamed-gaber0&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
